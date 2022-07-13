@@ -22,4 +22,4 @@ public class InvoiceGenerator {
 	        return new InvoiceSummary(rides.length, totalFare);
 	    }
 	}
-}
+
